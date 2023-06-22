@@ -2,7 +2,7 @@
 	"name": "@ontario-lrc/ontario-design-system-complete-styles",
 	"version": "2.5.0",
 	"private": false,
-	"description": "Complete styles package for the Ontario Design System containing all SASS and CSS for use independently of the Component Library.",
+	"description": "Complete styles package for the Ontario Design System containing all SASS and CSS for use independently of the Component Library. This is a carbon-copy of @ontario-digital-service/ontario-design-system-complete-styles 2.5.0, with bug fixes discovered",
 	"license": "Apache-2.0",
 	"type": "module",
 	"style": "dist/styles/css/compiled/ontario-theme.min.css",
