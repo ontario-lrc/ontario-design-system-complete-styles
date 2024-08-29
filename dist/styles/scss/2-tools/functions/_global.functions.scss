@@ -1,15 +1,5 @@
 @use 'sass:math';
 
-/* Rem calc function */
-/// Convert a pixel (px) value to rem
-///
-/// @param {number} $size Size in pixels to convert.
-/// @return {number} Converted equivalent rem value.
-@function rem-calc($size) {
-	@warn "rem-calc() has been marked as deprecated and will be removed in a later version of the Design System SASS, use px-to-rem() instead.";
-	@return px-to-rem($size);
-}
-
 /* Pixel to REM Conversion */
 ///
 /// Convert a pixel (px) value to rem
